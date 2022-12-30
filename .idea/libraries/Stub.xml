@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Stub">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/DemoWebServiceClient/Stub" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/DemoWebServiceClient/Stub" />
+    </SOURCES>
+  </library>
+</component>
